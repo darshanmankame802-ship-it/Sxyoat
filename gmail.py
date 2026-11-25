@@ -16,7 +16,7 @@ from user_agent import generate_user_agent
 
 # ── config ────────────────────────────────────────────────────────────────────
 MIN_FOLLOWERS    = 0
-THREADS          = 80
+THREADS          = 10
 USER_ID_MIN      = 2500000000
 USER_ID_MAX      = 21254029834
 TL_FILE          = "tl.txt"
